@@ -21,7 +21,7 @@ O projeto possui as seguintes funcionalidades:
 ## Geração de conselhos aleatórios
 Compartilhamento do conselho nas redes sociais
 Visualização do histórico de conselhos gerados
-Contribuição
+## Contribuição
 Contribuições são sempre bem-vindas! Se você quiser contribuir com esse projeto, por favor siga as instruções abaixo:
 
 Faça um fork desse repositório
